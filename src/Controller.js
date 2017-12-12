@@ -91,13 +91,13 @@ const EXPOSED_METHODS = [
 ]
 
 const ONLY_GETTER_METHODS = [
-  'delay',
-  'duration',
-  'startTime',
-  'totalDuration',
-  'totalProgress',
-  'totalTime',
-  'endTime'
+  // 'delay',
+  // 'duration',
+  // 'startTime',
+  // 'totalDuration',
+  // 'totalProgress',
+  // 'totalTime',
+  // 'endTime'
 ]
 
 function bindAPI() {
