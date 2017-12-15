@@ -78,6 +78,10 @@ export default class Controller {
     }
     this._remove(this)
   }
+
+  get gsapAnimation() {
+    return this._gsapAnimation
+  }
 }
 
 
